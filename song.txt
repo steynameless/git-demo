@@ -3,7 +3,7 @@ everything is possible
 any of ever possible
 will bring your happiness
 
-<<<<<<< HEAD
+
 Look
 If you had
 One shot
@@ -11,4 +11,4 @@ Or one opportunity
 =======
 rusted from the rain
 common, crush me liking flavour
->>>>>>> b5fd5d974f2ff60b3ea005e575a5b4f4ea629f90
+
