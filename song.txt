@@ -10,4 +10,8 @@ Or one opportunity
 =======
 rusted from the rain
 common, crush me liking flavour
+<<<<<<< HEAD
 
+=======
+with the bird i'll share this lonely wievin'
+>>>>>>> d1831dd1ff8c1f96320141efafbfdf712aa3f5de
